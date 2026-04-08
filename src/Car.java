@@ -5,7 +5,7 @@ public class Car {
     double speed; // максимальна швинкість
 
    public void startEngine() {
-        System.out.println("Двигун запускаеться");
+        System.out.println("Двигун запускаеться до");
     }
 
     public void accelerate() {
